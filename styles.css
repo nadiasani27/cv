@@ -1,0 +1,85 @@
+
+/**************************Tag Selectors*****************************/
+
+
+h1{
+  font-size: 562.5%;
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  line-height: 1;
+  font-family: "Sacramento", sans-serif;
+}
+
+
+h2{
+  font-size: 250%;
+  font-weight: normal;
+  color: #66BFBF;
+  font-family: "Montserrat", sans-serif;
+}
+
+h3{font-family: "Montserrat", sans-serif;
+color: #11999E;
+line-height: 1
+}
+
+.profile {
+  border-radius:50%;}
+.skill-row {width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2
+}
+
+body
+{
+
+  margin:0;
+  text-align: center;
+  font-family: "Merriweather";
+}
+
+/**************************Class Selectors*****************************/
+
+.top-container {
+background-color: #E4F9F5;
+position: relative;
+padding-top: 100px;
+}
+
+.middle-container {
+  margin: 50px auto 50px auto;
+}
+
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 150px;
+  top: 50px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 150px;
+  bottom: 300px;
+
+}
+
+.skills-img {
+  border-radius: 50%;
+  width: 25%;
+  margin-right: 30px;
+float: left;}
+.weight-img {
+border-radius: 50%;
+  width: 25%;
+  margin-right: 30px;
+float: left;}
+.finance-img {
+border-radius: 50%;
+  width: 25%;
+  margin-right: 30px;
+float: left;}
